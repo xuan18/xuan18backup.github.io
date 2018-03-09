@@ -1,0 +1,24 @@
+# main links
+main:
+  # - 
+    # title: "Quick-Start Guide"
+    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - 
+    title: "随笔"
+    url: /essay/
+  - 
+    title: "心智"
+    url: /mind/
+  # - 
+    # title: "工作谈"
+    # url: /work-talking/
+  - 
+    title: "联系"
+    url: /contact/
+
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  # - url: /sitemap/
