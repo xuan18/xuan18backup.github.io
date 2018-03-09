@@ -39,6 +39,14 @@
   a {
     color: inherit;
   }
+ 
+  a:link {
+    text-decoration: none;
+  }
+ 
+  a:hover {
+    text-decoration: underline;
+  }
 
   a + a {
     opacity: 0.5;
