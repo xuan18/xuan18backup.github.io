@@ -4,7 +4,7 @@ excerpt: 我对「转行」的思考
 category: essay
 ---
 
-![](http://www.lijiaxuan.me/wp-content/uploads/2017/07/working-identity-1.png)
+![](/assets/images/working-identity-1.png)
 
 ## 各种可能的自我
 

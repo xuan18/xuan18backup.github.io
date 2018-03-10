@@ -44,7 +44,7 @@ category: essay
 
 以下为两者结合的图表说明：
 
-![](http://www.lijiaxuan.me/wp-content/uploads/2017/07/working-identity-1.png)
+![](/assets/images/working-identity-1.png)
 
 与传统实现职业转型方法「先计划，再行动」相悖，作者发现「先行动，再计划」才更有可能获得成功。想起大学的时候正正是被灌输这种传统方法，而且是三年不定时地，不禁摇头叹息。
 
