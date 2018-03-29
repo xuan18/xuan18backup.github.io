@@ -39,7 +39,7 @@ HAPPY PEOPLE BECOME HAPPIER THROUGH KINDNESS: A COUNTING KINDNESSES INTERVENTION
 
 
 
-更推崇的是，始终对别人抱有善意，放弃「互惠原则」，抛开义务和责任，并结合自身的需要去帮助别人[4]。
+更推崇的是，始终对别人抱有善意，放弃「互惠原则」，并结合自身的需要去帮助别人[4]。
 
 更重要的是，对别人的帮助有正向的反馈
 
