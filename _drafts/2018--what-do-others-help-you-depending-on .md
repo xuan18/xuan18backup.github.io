@@ -47,7 +47,13 @@ HAPPY PEOPLE BECOME HAPPIER THROUGH KINDNESS: A COUNTING KINDNESSES INTERVENTION
 
 《追时间的人》
 
-## 需要多少「自己人」
+
+
+你能有多少「自己人」？能跟你紧密联系的人有150左右，这是人类学家，灵长类动物专家罗宾邓巴提出的「邓巴数字」[5]。按照亲密度和联系频率不同，
+
+![](../assets/images/Dunbar's-number.jpg)
+
+
 
 网络科学：
 
@@ -60,7 +66,7 @@ HAPPY PEOPLE BECOME HAPPIER THROUGH KINDNESS: A COUNTING KINDNESSES INTERVENTION
 
 ## 结语
 
-对别人抱有善意，始终相信自己在帮助别人的同时，其他人也会帮助你，就让这个良性循环使得互助的社群变得越来越有力量。
+对别人抱有善意，始终相信自己在帮助别人的同时，其他人也会帮助你，使得这个互助社群变得越来越有力量。
 
 
 
@@ -73,3 +79,5 @@ HAPPY PEOPLE BECOME HAPPIER THROUGH KINDNESS: A COUNTING KINDNESSES INTERVENTION
 [3]杨中芳，《如何理解中国人》，重庆大学出版社
 
 [4]《Give and Take》，[美]亚当·亚特兰大（著），王菲（译）
+
+[5]《你需要多少朋友？》
