@@ -37,6 +37,8 @@
 
 HAPPY PEOPLE BECOME HAPPIER THROUGH KINDNESS: A COUNTING KINDNESSES INTERVENTION
 
+《追时间的人》
+
 
 
 更推崇的是，始终对别人抱有善意，放弃「互惠原则」，并结合自身的需要去帮助别人[4]。
@@ -45,23 +47,9 @@ HAPPY PEOPLE BECOME HAPPIER THROUGH KINDNESS: A COUNTING KINDNESSES INTERVENTION
 
 
 
-《追时间的人》
-
-
-
-你能有多少「自己人」？能跟你紧密联系的人有150左右，这是人类学家，灵长类动物专家罗宾邓巴提出的「邓巴数字」[5]。按照亲密度和联系频率不同，
+你能有多少「自己人」？能跟你紧密联系的人有150左右，这是人类学家，灵长类动物专家罗宾·邓巴提出的「邓巴数字」[5]。除了家庭成员、朋友和工作社区同事外，剩余认识的都是见面不打招呼也不好意思的人。
 
 ![](../assets/images/Dunbar's-number.jpg)
-
-
-
-网络科学：
-
-六度分隔理论
-
-150定律（邓巴数字）《你需要多少朋友》
-
-5人定律
 
 
 ## 结语
@@ -80,4 +68,4 @@ HAPPY PEOPLE BECOME HAPPIER THROUGH KINDNESS: A COUNTING KINDNESSES INTERVENTION
 
 [4]《Give and Take》，[美]亚当·亚特兰大（著），王菲（译）
 
-[5]《你需要多少朋友？》
+[5]《你需要多少朋友？》，[英]罗宾·邓巴（著），马睿，朱邦芊（译）
