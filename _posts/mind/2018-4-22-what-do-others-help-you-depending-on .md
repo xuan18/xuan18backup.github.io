@@ -1,6 +1,7 @@
 ---
+layout: single
 title: “别人”凭什么帮你
-excerpt:当遇到困难时，「别人」凭什么帮你
+excerpt: 当遇到困难时，「别人」凭什么帮你
 category: mind
 ---
 
