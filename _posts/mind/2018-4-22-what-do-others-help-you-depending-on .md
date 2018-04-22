@@ -10,7 +10,7 @@ category: mind
 
 黄光国[1]提出以下理论架构（下图）[2]，并认为：此理论架构不仅描绘出中国社会中社会行为的原型，同时也可以作为解释大多数文化中社会互动过程的一般性模式。
 
-![what-does-other-help-you-depending-on-1](../assets/images/what-does-other-help-you-depending-on-1.jpg)
+![what-does-other-help-you-depending-on-1](/assets/images/what-does-other-help-you-depending-on-1.jpg)
 
 （图中「1.关系判断」，斜线左侧为情感性成分，右侧为工具性成分 ）
 
@@ -26,7 +26,7 @@ category: mind
 
 对于「关系」的判断，杨中芳在其讨论中国人的人际情感的一篇论文中，曾沿用胡先缙的分类，将**人际情感分为两类：应有的情感（人情）及真有的感情（真情）**[3]。
 
-![what-does-other-help-you-depending-on-2](../assets/images/what-does-other-help-you-depending-on-2.png)
+![what-does-other-help-you-depending-on-2](/assets/images/what-does-other-help-you-depending-on-2.png)
 
 诸如师生、同学和刚建立的婆媳之间的关系，属于真情低，人情高的。他们一般是因为有这种的关系存在，而产生义务性情感。例如，《师说》的「师者，传道授业，解惑也」。而真情高，人情低的，就指诸如挚友之间的关系，而其中的高真情是通过后天培养，发自内心的。所谓的「朋友」就是在这里一分亲疏了。真情和人情都低的，就是所谓的「外人」和「陌生人」。
 
@@ -37,7 +37,7 @@ category: mind
 
 朋友是否越多越好？你能有多少「自己人」？能跟你紧密联系的人有150左右，这是人类学家，灵长类动物专家罗宾·邓巴提出的「邓巴数字」[5]。其中**与你关系最好的亲人和朋友大概只有7个人**，他们是你困难时最后的港湾。除了家庭成员、朋友和工作社区同事外，其余的都是见面不打招呼也不好意思的人。
 
-![](../assets/images/Dunbar's-number.jpg)
+![](/assets/images/Dunbar's-number.jpg)
 
 
 ## 结语
