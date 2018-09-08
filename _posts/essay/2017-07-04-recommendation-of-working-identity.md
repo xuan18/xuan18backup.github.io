@@ -57,7 +57,7 @@ category: essay
 - 你感兴趣的东西可能不只有一种
 - 要通过经历才能发现感兴趣的东西
 
-这跟作者提的两个观点极为相似，[兴趣](http://lijiaxuan.me/mind/what-is-interest/)的概念是对这本书不错的补充说明。
+这跟作者提的两个观点极为相似，[兴趣](http://lijiaxuan.com/mind/what-is-interest/)的概念是对这本书不错的补充说明。
 
 
 
