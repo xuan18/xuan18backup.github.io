@@ -24,11 +24,11 @@ category: health
 
 特别注意的是，不要以为人类的进化就此终结了，这只是目前的结果。他指出，只要自然选择一直存在，人类的进化就不会停止，而文化选择也影响颇大。久站久坐因其高价值，而被文化选择出来，一直存在。
 
-![](../assets/images/the-course-of-evolution-of-mankind-gorilla-and-chimpanzee.jpg)
+![](/assets/images/the-course-of-evolution-of-mankind-gorilla-and-chimpanzee.jpg)
 
 [1]
 
-![](../assets/images/the-course-of-evolution-of-mankind.jpg)
+![](/assets/images/the-course-of-evolution-of-mankind.jpg)
 
 [2]
 
@@ -41,7 +41,7 @@ category: health
 
 利伯曼也指出，虽然腰背痛成因极其复杂，受基因、身高、体重、静坐时间、不良姿势、振动、参与体育运动、频繁地举重物等影响，但**把握好使用腰背的强度会减少腰背痛发生的机会**。迈克尔·亚当斯（Micheal Adams）及其同事提出一个腰背痛的重要风险模型（下图），健康的背部位于体力活动水平为「中」的位置［1］。
 
-![](../assets/images/physical-activity-level.jpg)
+![](/assets/images/physical-activity-level.jpg)
 
 [1]
 
