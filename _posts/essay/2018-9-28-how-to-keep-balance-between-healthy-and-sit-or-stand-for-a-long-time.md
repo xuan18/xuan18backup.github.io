@@ -73,7 +73,7 @@ category: essay
   - 《精准拉伸》，疼痛解决方案
 - 四、日常身体维护（按需选择）
   - 《微拉伸轻运动：彻底摆脱全身酸痛麻》
-  - [五组 NASS（北美脊柱外科协会） 推荐的腰肌锻炼方法]（另，[中文注解](http://mini.eastday.com/a/180903191735729-2.html)）
+  - [五组 NASS（北美脊柱外科协会） 推荐的腰肌锻炼方法](http://orthop.dxy.cn/article/507277?keywords=nass)（另，[中文注解](http://mini.eastday.com/a/180903191735729-2.html)）
   - [15分鐘上班族健康操](https://www.youtube.com/watch?v=IAekSFMghA8)
   - 《姿势决定健康》，动态工位：创造动态工作环境，休息动作和运动休息
   - [香港职业安全健康局](http://www.oshc.org.hk/tchi/main/hot/)
