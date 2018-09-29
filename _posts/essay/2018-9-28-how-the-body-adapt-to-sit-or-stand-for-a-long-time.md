@@ -77,7 +77,7 @@ category: essay
   - [15分鐘上班族健康操](https://www.youtube.com/watch?v=IAekSFMghA8)
   - 《姿势决定健康》，动态工位：创造动态工作环境，休息动作和运动休息
   - [香港职业安全健康局](http://www.oshc.org.hk/tchi/main/hot/)
-  - [電腦痠痛族　擺脫3C文明病 | 養生我知道 | 三立財經台CH88](https://www.youtube.com/watch?v=ashmvRHvdWs)（上半身）
+  - [電腦痠痛族，擺脫3C文明病](https://www.youtube.com/watch?v=ashmvRHvdWs)（上半身）
 - 五、用具——椅子，护腰[9]
   - 《姿势决定健康》，优化坐姿，椅子：危害最小
   - 《微拉伸轻运动：彻底摆脱全身酸痛麻》，护腰的介绍与选择
