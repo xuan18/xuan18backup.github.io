@@ -9,6 +9,9 @@ main:
   - 
     title: "心智"
     url: /mind/
+  - 
+    title: "Pythonic"
+    url: /pythonic/
   # - 
     # title: "工作谈"
     # url: /work-talking/
