@@ -1,0 +1,9 @@
+---
+layout: archive
+title: "Pythonic"
+author_profile: true
+---
+
+
+{% assign postsByYear = site.categories.pythonic | group_by_exp:"post", "post.date | date: '%Y'"  %}
+{% include category-year-archive.html %}
