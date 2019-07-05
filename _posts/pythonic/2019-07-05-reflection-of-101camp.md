@@ -6,7 +6,7 @@ category: pythonic
 
 ## 什么是蟒营？
 
-![](/assets/images/assets/images/www101camp.jpg)
+![www101camp](/assets/images/www101camp.jpg)
 
 Python，中文翻译为「蟒蛇」，现今较为流行的编程语言之一。而[蟒营](https://101.camp/)，就是取名与此，字面理解为，学习python的营地。 蟒营崇尚着一种氛围——Pythonic，这不是专指使用Python编程，这是种通用的务实工程态度和代码追求[1]。
 
@@ -16,17 +16,17 @@ Python，中文翻译为「蟒蛇」，现今较为流行的编程语言之一�
 
 ## MVP
 
-![MVP](/assets/images/assets/images/MVP.png)
+![MVP](/assets/images/MVP.png)
 
 MVP，minimum viable product ，译为最简可行产品，是以最低成本获取核心概念产品的策略。
 
 从用户看，我们当然想使用无论是外观和功能都是一流的产品。但从生产者看，时间，价格和生产力等因素都会影响着最终产品。对应编程，作为开发方的我们，若编程的软件出现核心功能未能实现和使用出现崩溃的情况，已然不可能把大部分时间花在实现核心功能和解决崩溃以外的地方了。为何 MVP ，因资源有限，要将其用在刀刃上，先实现一个最简可行产品，再快速迭代优化。
 
- ## IDD
+## IDD
 
 简单了解MVP后，对于一般编程任务，下一步就是对任务进行拆分和时间分配，先谈拆分。
 
-![](/assets/images/assets/images/issue.png)
+![issue](/assets/images/issue.png)
 
 拆分任务的方法是 IDD，Issue Drive Development，译为以 issue 为驱动的开发，而 issue 为代码协作平台（例如GitLab）的讨论区议题。蟒营要求我们在 issue 中建立任务记录，记录中包含被拆分的子任务、思考过程和用时等，这有利于同学交流和老师指导。
 
@@ -73,9 +73,7 @@ MVP，minimum viable product ，译为最简可行产品，是以最低成本获
 
 课程其中一个要求是，记录自身投入任务的真实时长。例如下图：
 
-![](C:\Users\1\Documents\GitHub\xuan18.github.io\assets\images\time-record-of-task.png)
-
-
+![time-record-of-task](/assets/images/time-record-of-task.png)
 
 但在按照课程要求记录几周时长后，我对记录时间有了改观。蟒营每周任务 IDD 中，我都会在记录时间之前，自然地想起一些问题：
 
@@ -89,7 +87,7 @@ MVP，minimum viable product ，译为最简可行产品，是以最低成本获
 
 ## 具身认知
 
-![](/assets/images/assets/images/nobody-does-until-they-ride-a-dragon.jpg)
+![nobody-does-until-they-ride-a-dragon](/assets/images/nobody-does-until-they-ride-a-dragon.jpg)
 
 每周直播上，经常提到《权力的游戏》的一句话——「没人天生就会骑龙，骑了就会了」。对应编程学习，理解为，没人天生就会编程，动手了就会了。只有我们真正开始动手编程，才能学会编程。
 
