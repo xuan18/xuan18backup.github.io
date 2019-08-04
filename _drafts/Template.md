@@ -8,4 +8,4 @@ category:
 
 ## logging
 
-2019-08-04: initial commit
+190804: initial commit
