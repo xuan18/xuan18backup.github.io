@@ -1,3 +1,9 @@
+---
+title: 《提问的智慧》有感
+excerpt: 提问之前、网络礼节、如何准确地定义问题
+category: essay
+---
+
 互联网普及，部分问题能在网上得到准确答案，例如一般编程和生活常识的问题。进一步地，如何提高获取这些问题答案的速度和准确度？黑客社区流传已广的[《提问的智慧》](https://github.com/DebugUself/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md#%E5%A5%BD%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A0%A2%E9%97%AE%E9%A2%98)能帮助你。以下是我感触颇深的几点：
 
 ## 提问之前
