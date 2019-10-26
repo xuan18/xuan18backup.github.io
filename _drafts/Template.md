@@ -8,4 +8,4 @@ category:
 
 ## logging
 
-190804: initial commit
+190804: init
