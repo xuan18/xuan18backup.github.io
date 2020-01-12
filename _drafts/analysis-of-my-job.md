@@ -52,3 +52,59 @@
 
 
 问题：对于老客户，可以容许一定金额数量的业务延后结算？
+
+
+
+## 以下为怼圈期间分析
+
+## 背景
+
+- [seasonPlan 子任务](https://github.com/DebugUself/du4proto/blob/master/Plan4Season2019/S36E51/du_s36e51_xuan18_plan.md) 
+  - 探索职业——机器学习算法工程师
+
+## 分析
+
+- 探索该职业
+  - 选择理由
+  - 定义
+  - 任职要求
+  - 学习路径
+  - ...
+
+## 方案
+
+- [x] 探索职业——机器学习算法工程师
+  - [x] 为何选它
+    - 受 Deepmind 的游戏（ [Breakout](https://towardsdatascience.com/tutorial-double-deep-q-learning-with-dueling-network-architectures-4c1b3fb7f756) ） AI 启发，希望了解更多其算法和机器学习相关信息
+      - 此游戏是属于机器学习的哪个领域？
+        - 其利用了 QL 的变体算法—— [DQL](https://en.wikipedia.org/wiki/Q-learning#Deep_Q-learning)
+  - [x] 它是什么？
+    - 什么是机器学习
+      - [机器学习-维基百科](https://zh.wikipedia.org/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+    - 什么是算法
+      - [算法-维基百科](https://zh.wikipedia.org/wiki/%E7%AE%97%E6%B3%95)
+  - [x] 它是做什么的
+    - 根据[机器学习-维基百科](https://zh.wikipedia.org/wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)，其有多个应用的领域： 数据挖掘、计算机视觉、...
+    - ...
+  - [x] 它需要具备什么？
+    - 一定的英语阅读能力
+    - [x] 按照机器学习应用的不同领域，需掌握不同的技能
+      - 我应该选择什么领域去学习？
+        - 暂无倾向，先学上述 [DQL](https://en.wikipedia.org/wiki/Q-learning#Deep_Q-learning) 算法
+  - [x] 学习方式
+    - [ ] 学校学习
+    - [ ] 远程教育
+      - Course
+      - ...
+    - [x] 哪种方式适合自己？
+      - [x] 见上述「如何安全地转换职业生涯」
+      - 这几天持续腰痛，让我感觉我暂时还不适合做久坐的工作，要另觅去路了
+  - 更多人工智能的资料
+    - [《人工智能简史》](https://book.douban.com/subject/27193496/)
+
+## 变更
+
+20200101: complete exploration
+20191224: add condition and study road of job
+20191224: add the information of job
+20191221: init
