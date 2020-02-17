@@ -38,6 +38,7 @@ category:
   - 《[朗文日常情景单词书](https://detail.tmall.com/item.htm?id=567856189567)》
   - 《[剑桥国际英语语音教程美音版](https://detail.tmall.com/item.htm?id=537028684204)》
   - 《[外语流利说](https://item.taobao.com/item.htm?id=610254114821)》
+  - 以上书籍参考 zotero 列出
 
 ## 日志
 
