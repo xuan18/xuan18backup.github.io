@@ -1,7 +1,7 @@
 ---
 title: 个人消费原则
 excerpt: 让生活变得简单
-category: 心智
+category: mind
 ---
 
 # 缘起
