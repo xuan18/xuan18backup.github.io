@@ -1,6 +1,6 @@
 ---
 title: 如何解决问题？
-excerpt: 两个方法的结合
+excerpt: 摸得着的问题
 category: mind
 ---
 
