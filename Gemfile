@@ -1,4 +1,4 @@
-gem "minimal-mistakes-jekyll"
+gem 'minimal-mistakes-jekyll', '~> 4.24'
 
 source "https://rubygems.org"
 
