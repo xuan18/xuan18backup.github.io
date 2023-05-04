@@ -11,8 +11,6 @@ author_profile: true
 
 留言相关：不定时看留言，有要事请即时联系我
 
-微信号：mylife18
-
-公众号：心智探奇
+微信号：lijiaxuan-com
 
 博客：lijiaxuan.com
